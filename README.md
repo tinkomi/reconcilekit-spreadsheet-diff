@@ -16,7 +16,7 @@
 
 ---
 
-![ReconcileKit PRO Cover](assets/cover.png)
+![ReconcileKit PRO Cover](reconcilekit-cover.png)
 
 ## ⚡ What is ReconcileKit?
 
@@ -38,14 +38,14 @@ Existing online diff checkers require uploading confidential financial or custom
 ## 📸 Feature Showcase
 
 ### 1. Deterministic 4-Way Diff Engine
-![Deterministic 4-Way Reconciliation Diff](assets/gallery-01.png)
+![Deterministic 4-Way Reconciliation Diff](reconcilekit-gallery-01.png)
 - **Identical:** Records present in both files with all columns matching.
 - **Modified:** Records present in both files with specific cell-level deviations highlighted.
 - **Added:** New records present in the incoming file only.
 - **Removed:** Prior records missing from the incoming file.
 
 ### 2. Exception Review Queue & Audit Deliverables (PRO)
-![Exception Review Queue & 1-Click Audit ZIP](assets/gallery-02.png)
+![Exception Review Queue & 1-Click Audit ZIP](reconcilekit-gallery-02.png)
 - **Review Queue:** Review discrepancies row-by-row, choose explicit actions (Keep Baseline, Use Incoming, Manual Override), and enter audit notes.
 - **1-Click Audit Pack ZIP:** Exports a certified 3-file package containing the Reconciled Master CSV, Structured Exception Log CSV, and Executive Markdown Audit Report.
 
