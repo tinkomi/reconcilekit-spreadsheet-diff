@@ -12,7 +12,7 @@
 
 ### 🚀 Quick Links
 - **[👉 Launch Live Demo on GitHub Pages](https://tinkomi.github.io/reconcilekit-spreadsheet-diff/)**
-- **[💎 Upgrade to ReconcileKit PRO ($15) on Gumroad](https://mcjinster.gumroad.com/)**
+- **[💎 Upgrade to ReconcileKit PRO ($15) — Instant Download](https://payhip.com/b/rKVYe)**
 
 ---
 
